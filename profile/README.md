@@ -21,5 +21,6 @@ A Discord client mod for your Discord client mod.
  - [Browser Ext](https://github.com/CumcordLoaders/Browser):
    * [Chrome](https://chrome.google.com/webstore/detail/cumchrome/pfmlgebacgjbhlbdmlpmjldhkoeohbnl)
    * [Firefox](https://addons.mozilla.org/addon/cumload)
+ - [NPM org](https://www.npmjs.com/org/cumjar)
  
 See other related projects and things on the main org (the one you're looking at!)
